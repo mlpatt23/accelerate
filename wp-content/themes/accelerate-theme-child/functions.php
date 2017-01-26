@@ -25,6 +25,7 @@
  * @since Accelerate Marketing 1.0
  */
 
+// Custom post types function
 function create_custom_post_types() {
 	register_post_type( "case_studies",
 		array(
@@ -39,4 +40,7 @@ function create_custom_post_types() {
 	);
 }
 
+// Hooks the custom function up to the theme
 add_action( "init", "create_custom_post_types" );
+
+
