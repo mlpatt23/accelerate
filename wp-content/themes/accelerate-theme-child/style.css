@@ -49,3 +49,56 @@
 }
 
 /*End of Home Page Styles*/
+
+/*Single Case Study Styles*/
+.case-study-sidebar {
+	margin-top: 90px;
+	margin-right: 4%;
+	width: 35%;
+	float: left;
+	display: inline-block;
+}
+
+.case-study-sidebar h2 {
+	font-family: "Open Sans";
+	font-weight: 400;
+}
+
+.case-study-sidebar h5 {
+	font-family: "Open Sans";
+	font-weight: 400;
+	font-size: 14px;
+	color: #888888;
+	margin-top: 15px;
+	margin-bottom: 0px;
+}
+
+.case-study-sidebar h6 {
+	font-family: "Open Sans";
+	font-weight: 400;
+	font-size: 15px;
+	margin-top: 15px;
+	margin-bottom: 40px;
+}
+
+.case-study-sidebar p {
+	margin-bottom: 40px;
+}
+
+.case-study-sidebar a {
+	font-family: "Open Sans";
+	font-weight: 700;
+	font-size: 16px;
+}
+
+.case-study-images {
+	margin: 90px 0 100px 0;
+	width: 35%;
+	display: inline-block;
+}
+
+.case-study-images img {
+	margin-bottom: 80px;
+}
+
+/*End of Single Case Study Styles*/
