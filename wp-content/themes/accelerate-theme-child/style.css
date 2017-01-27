@@ -12,6 +12,12 @@
 	
 @import url("../accelerate-theme/style.css");
 
+/* General Styles*/
+
+
+
+/* End of General Styles */
+
 /* Home Page Styles */
 .home-page {
     background: url("img/taxi-photo.jpg") no-repeat scroll left center / cover rgba(0, 0, 0, 0);
@@ -150,3 +156,44 @@
 	font-size: 24px;
 }
 /* End of Archive Case Study Styles*/
+
+/* Contact Styles*/
+#content {
+	width: 70%;
+	margin: 65px auto 0 auto;
+}
+
+#nf-form-1-cont {
+	margin-bottom: 100px;
+}
+
+.nf-form-title {
+	display: none;
+}
+
+.nf-field-label {
+	font-size: 14px;
+	font-weight: 400;
+}
+
+#nf-field-1-container, #nf-field-2-container {
+	width: 45%;
+	display: inline-block;
+}
+
+#nf-field-2-container {
+	float: right;
+}
+
+#nf-field-4 {
+	float: right;
+	padding: 12px 70px;
+	background-color: #45ac9d;
+	color: #ffffff;
+	font-weight: bold;
+	margin-top: 5px;
+}
+
+
+
+/* End of Contact Styles*/
