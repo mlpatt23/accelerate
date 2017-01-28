@@ -301,3 +301,32 @@
 }
 
 /* End of About Styles */
+
+/* 404 Styles */
+.not-found-page {
+	margin-top: 100px;
+}
+
+.not-found-page img {
+	display: inline-block;
+	width: 40%;
+	vertical-align: top;
+	margin-right: 5%;
+	margin-top: 50px;
+}
+
+.not-found-description {
+	display: inline-block;
+	width: 50%;
+}
+
+.not-found-description h1 {
+	color: #45ac9d;
+}
+
+.in-text-link {
+	color: #45ac9d;
+	font-weight: bold;
+}
+
+/* End of 404 Styles */
