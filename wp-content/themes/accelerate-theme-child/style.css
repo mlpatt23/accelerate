@@ -330,3 +330,19 @@
 }
 
 /* End of 404 Styles */
+
+/* Blog Styles */
+#searchsubmit {
+	margin-top: 10px;
+}
+
+.sidebar aside {
+	margin-bottom: 50px;
+}
+
+.mashsb-box {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+/* End of Blog Styles */
